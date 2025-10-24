@@ -20,7 +20,7 @@ export default function Page() {
           </div>
 
           <h1 className="text-4xl md:text-5xl font-extrabold text-blue-900 mb-4 leading-tight">
-            PrediECG: Sistema Inteligente para Predição de Eventos
+            PrediCuori: Sistema Inteligente para Predição de Eventos
             Cardiovasculares Agudos
           </h1>
           <p className="text-gray-700 text-base md:text-lg mb-6">
@@ -96,10 +96,10 @@ export default function Page() {
         >
           <h2 className="text-2xl font-semibold text-blue-900 mb-4 flex items-center gap-2">
             <Target className="w-6 h-6" />
-            Sobre o PrediECG
+            Sobre o PrediCuori
           </h2>
           <p className="text-gray-700 leading-relaxed text-sm md:text-base">
-            O PrediECG é um <strong>sistema multimodal</strong> desenvolvido
+            O PrediCuori é um <strong>sistema multimodal</strong> desenvolvido
             para prever eventos cardiovasculares agudos (infarto do miocárdio,
             arritmias graves e morte súbita), integrando dados de{" "}
             <strong>eletrocardiogramas (ECG)</strong> e{" "}
