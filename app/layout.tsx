@@ -2,7 +2,7 @@ import "./globals.css";
 import type { ReactNode } from "react";
 
 export const metadata = {
-  title: "PrediECG — Sistema Inteligente",
+  title: "PrediCuori — Sistema Inteligente",
   description:
     "Sistema multimodal de predição de eventos cardiovasculares (UFSM / PIT - CNPq)",
 };
