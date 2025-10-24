@@ -450,7 +450,7 @@ export default function Page() {
         </div>
         <div className="space-y-1">
           <p className="font-semibold text-blue-900 mb-2">
-            Pesquisador Responsável
+            Pesquisadores Responsáveis
           </p>
           <p>
             <strong>Leandro Dalla Nora</strong> —{" "}
@@ -486,7 +486,72 @@ export default function Page() {
           <p>
             Lattes:{" "}
             <a
-              href="https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menu?f_cod=C41A2729F469EC2F2BDEE0B1A0C7918B#"
+              href="http://lattes.cnpq.br/9758381163098190"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline hover:text-blue-600"
+            >
+              Currículo Lattes
+            </a>
+          </p>
+
+          <p>
+            <strong>Marina Manica Tamiozzo</strong> —{" "}
+            <a
+              href="mailto:marina.tamiozzo@acad.ufsm.br"
+              className="underline hover:text-blue-600"
+            >
+              marina.tamiozzo@acad.ufsm.br
+            </a>
+          </p>
+          <p>
+            Lattes:{" "}
+            <a
+              href="https://lattes.cnpq.br/9746726165791697"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline hover:text-blue-600"
+            >
+              Currículo Lattes
+            </a>
+          </p>
+
+          <p className="font-semibold text-blue-900 mb-2">Orientador</p>
+          <p>
+            <strong>Marcos Cordeiro d’Ornellas</strong> —{" "}
+            <a
+              href="mailto:marcosdornellas@gmail.com"
+              className="underline hover:text-blue-600"
+            >
+              marcosdornellas@gmail.com
+            </a>
+          </p>
+          <p>
+            LinkedIn:{" "}
+            <a
+              href="https://www.linkedin.com/in/marcosdornellas/?locale=pt_BR"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline hover:text-blue-600"
+            >
+              linkedin.com/in/marcosdornellas
+            </a>
+          </p>
+          <p>
+            GitHub:{" "}
+            <a
+              href="https://github.com/marcosdornellas"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="underline hover:text-blue-600"
+            >
+              github.com/marcosdornellas
+            </a>
+          </p>
+          <p>
+            Lattes:{" "}
+            <a
+              href="http://lattes.cnpq.br/1765721612533942"
               target="_blank"
               rel="noopener noreferrer"
               className="underline hover:text-blue-600"
